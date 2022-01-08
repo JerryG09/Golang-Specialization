@@ -44,5 +44,5 @@ func main() {
 		os.Exit(0)
 	}
 	fmt.Println("----------------------------------------------")
-	fmt.Printf("JSON Data : %v", string(data))
+	fmt.Printf("JSON Data : %v\n\n", string(data))
 }
